@@ -23,6 +23,6 @@ we use the import keyword, the member name, and then the path to the library or 
 if we were importing multiple items from the same library, we would import them in the same list, each separated by a comma
 
 ```TS
-import { Component, Component2, Component 3 } from '@angular/core`
+import { Component, Component2, Component3 } from '@angular/core`
 ```
 
